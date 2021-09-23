@@ -1,0 +1,13 @@
+<br>
+linea1<br>
+linea2<br>
+linea3<br>
+linea4<br>
+linea5
+<table>
+	<tr>
+		<td>Inicio</td>
+		<td>Contactos</td>
+		<td>Galeria</td>
+	</tr>
+</table>
